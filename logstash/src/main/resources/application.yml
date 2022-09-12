@@ -1,0 +1,11 @@
+server:
+  port: 8080
+
+spring:
+  application:
+    name: es-logstash-service
+
+logging:
+  file:
+    # 配置日志的路径，包含 spring.application.name
+    path: ${spring.application.name}

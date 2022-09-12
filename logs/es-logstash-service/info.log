@@ -1,0 +1,3 @@
+2022-09-12 16:18:16.236 [32mINFO [m[main] [36morg.springframework.boot.web.embedded.tomcat.TomcatWebServer[m : Tomcat initialized with port(s): 8080 (http)
+2022-09-12 16:18:16.348 [32mINFO [m[main] [36morg.springframework.boot.web.servlet.context.ServletWebServerApplicationContext[m : Root WebApplicationContext: initialization completed in 753 ms
+2022-09-12 16:18:16.581 [32mINFO [m[main] [36morg.springframework.boot.web.embedded.tomcat.TomcatWebServer[m : Tomcat started on port(s): 8080 (http) with context path ''
